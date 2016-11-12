@@ -1,5 +1,5 @@
 function init(){
-  // init data
+  // init data - for initializing
   var json = [
       {
         "adjacencies": [
